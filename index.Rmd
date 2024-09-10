@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 Thanks for making the website. Here is a photo:
 
 ![Pink lustre - just tried this yesterday. Great apple!]
-(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-VvHoptwYGCNiTO1lTB66k0jkrV0dR3GA-St4bGwAh0kxMx5ayQMFg9dkzk5M0NEC-Bl3vLlSiz30vLspag_r6qw0UOqWRZXDP9zpMMkVM-3KqOJKEl-HRjvmt1IFE8u-lX0kGiWjdQ/s16000-rw/Pink+Luster.jpg)
+(/images/pink-lustre.webp)
 
 
