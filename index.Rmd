@@ -1,7 +1,5 @@
 ---
-title: "Website"
-author: "Sachi Srivastava"
-date: "2024-09-10"
+title: "Sachi and Adam's Website"
 output: html_document
 ---
 
