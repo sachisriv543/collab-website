@@ -10,8 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## This is our collaborative website.
 Thanks for making the website. Here is a photo:
 
-![Pink lustre - just tried this yesterday. Great apple!]
-(/images/pink-lustre.jpg)
+!Pink lustre - just tried this yesterday. Great apple released by Cornell in 2020
+(blob/main/images/pink-lustre.jpg)
 
 <br>
 <br>
