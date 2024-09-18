@@ -1,0 +1,16 @@
+---
+title: "adam"
+author: "Adam"
+date: "2024-09-18"
+output: html_document
+
+# Adam's interests
+Emma, our granddaughter
+<br>
+plant immunity
+<br>
+DIY
+<br>
+Apples
+<br>
+Fantasy novels
