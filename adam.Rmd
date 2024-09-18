@@ -1,8 +1,7 @@
 ---
-title: "adam"
-author: "Adam"
-date: "2024-09-18"
+title: "Adam"
 output: html_document
+---
 
 # Adam's interests
 Emma, our granddaughter
